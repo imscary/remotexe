@@ -11,6 +11,8 @@
 - supports any files
 
 ---
+## Download [here]("https://github.com/kipkat/remotexe/releases")
+---
 
 # How to use
 ## **Step 1**
