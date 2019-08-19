@@ -11,18 +11,18 @@
 - supports any files
 
 ---
-## Download [here]("https://github.com/kipkat/remotexe/releases")
+## Download [here](https://github.com/kipkat/remotexe/releases)
 ---
 
 # How to use
 ## **Step 1**
-### Create a paste on [pastebin]("https://pastebin.com") where you list the URL to every file you want to download
+### Create a paste on [pastebin](https://pastebin.com) where you list the URL to every file you want to download
 #### Example:
 ```
 http://yourhost.here/directory/file.extension
 http://notaveryshadyu.rl/notviruses/notamalware.exe
 https://legithost.random/document.pdf
-http://topwaifu.moe/images/hitagi.jpg
+http://bestwaifu.moe/images/hitagi.jpg
 ```
 ## **Step 2**
 ### Copy the paste ID
@@ -31,9 +31,10 @@ http://topwaifu.moe/images/hitagi.jpg
 ## **Step 3**
 ### Rename the remotexe.exe to the paste ID
 #### Example:
-- **from `remotexe.exe` rename to `9NcgwJK1.exe`
+- *from `remotexe.exe` rename to `9NcgwJK1.exe`*
+- *alternative way is `type remotexe.exe>9NcgwJK1.exe` in command line*
 ## **Step 4**
 ### Send it to anyone who uses windows.
 
 # **DISCLAIMER**
-# IT'S NOT MY FAULT IF REMOTEXE IS USED MALICIOUSLY! THE PURPOSE OF THIS IS TO MAKE FILE TRANSFER EASIER AND MORE DYNAMIC
+### IT'S NOT MY FAULT IF REMOTEXE IS USED MALICIOUSLY! THE PURPOSE OF THIS IS TO MAKE FILE TRANSFER EASIER AND MORE DYNAMIC, SO PLEASE USE IT IN A GOOD WAY ;)
